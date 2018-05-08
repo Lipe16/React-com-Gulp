@@ -7,7 +7,7 @@
 
 
 
-# Instruções de como instalar dependencias do projeto caso precise(e como instalei tais dependencias na criação do projeto):
+# Instruções de como instalar dependências do projeto caso precise(e como instalei tais dependências  na criação do projeto):
 
 1. iniciando projeto com npm:
     npm init
@@ -35,3 +35,21 @@
 
 6. instalar rotas no react:
      npm install react-router-dom --save-dev
+
+### mini-servidor php para responder requisições
+![php](https://image.ibb.co/g1wuYn/servidor_PHP.png)
+
+### mini-servidor Express para rodar o front-End
+![express](https://image.ibb.co/fUD8tn/servidor_Express_JS.png)
+     
+
+### ilustração do front
+![front](https://image.ibb.co/nv6uYn/Home.png)
+
+### ilustração do front2
+![front](https://image.ibb.co/nv6uYn/Home2.png)
+
+### ilustração do filtro
+![filtro](https://image.ibb.co/cOegDn/filtro.png)
+
+
