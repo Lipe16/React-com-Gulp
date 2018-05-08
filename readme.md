@@ -1,13 +1,13 @@
-#Projeto construído a partir de um curso na Udemy ministrado por GuiaCódigo - Guilherme Ferreira
+# Projeto construído a partir de um curso na Udemy ministrado por GuiaCódigo - Guilherme Ferreira
 
 
-Neste projeto trabalhei com a criação de estrutura de um projeto react, componentes, requisições HTTP, envio de parametros entre componentes e rotas(que eu busquei em aulas de outro curso).
+## Neste projeto trabalhei com a criação de estrutura de um projeto react, componentes, requisições HTTP, envio de parametros entre componentes e rotas(que eu busquei em aulas de outro curso).
 
 
 
 
 
-#Instruções de como instalar dependencias do projeto caso precise(e como instalei tais dependencias na criação do projeto):
+# Instruções de como instalar dependencias do projeto caso precise(e como instalei tais dependencias na criação do projeto):
 
 1. iniciando projeto com npm:
     npm init
